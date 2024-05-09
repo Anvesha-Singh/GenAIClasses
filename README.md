@@ -16,3 +16,6 @@ The 1980s saw a shift from Natural Language Processing techniques aiming to codi
 
 ## Assignment 05
 Write a technical report/essay between 500 and 1000 words long on "developing strategies for the bidding card game 'Diamonds' with GenAI." You can structure your report any way you like. One structure I found possibly helpful is - Introduction > Problem statement > Teaching genAI the game > Iterating upon strategy > Analysis and conclusion. Your essay should be a pdf document that has been generated through LaTeX. Do not use MS Word or Google Docs.
+
+## Pokemon Database
+Comparing the experience with GenAI designing a database for Pokemon in both SQL and NoSQL. Pokemon can have one or two ‘types,’ which decide whether they’re more effective or less effective against other Pokemon types. Every pokemon has a primay type; some also have a secondary type. The game involves using moves to attack other Pokemon, and each move has a certain power and type. Every move has a set of Pokemon who are capable of learning it; and every Pokemon has a set of moves it can learn. 
